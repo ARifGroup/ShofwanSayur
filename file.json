@@ -1,0 +1,23 @@
+[
+    {
+        "id" : 1,
+        "fotoBarang" : "photo.png",
+        "namaBarang" : "Bayam",
+        "hargaBarang" : 2000,
+        "satuan" : "Kg"
+    },
+    {
+        "id" : 2,
+        "fotoBarang" : "photo.png",
+        "namaBarang" : "Kangkung Panjang",
+        "hargaBarang" : 3500,
+        "satuan" : "Iket"
+    },
+    {
+        "id" : 3,
+        "fotoBarang" : "photo.png",
+        "namaBarang" : "Kobis Besar",
+        "hargaBarang" : 2500,
+        "satuan" : "Kg"
+    }
+]
